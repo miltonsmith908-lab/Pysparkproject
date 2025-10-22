@@ -69,4 +69,5 @@ print("✅ Data Loaded successfully at:", output_path)
 spark.stop()
 spark.stop()
 Abishek file 
+df_summary.show(5)
 
